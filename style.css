@@ -61,6 +61,7 @@
     margin-left: 36px;
     margin-right: 36px;
     font-size: 18px;
+    color: #888888;
 }
 .navigate:visited{
     color: #888888;
@@ -125,8 +126,8 @@
 /* About Section */
 
 #about{
-    margin-top: 120px;
-    margin-bottom: 100px;
+    padding-top: 120px;
+    padding-bottom: 100px;
     text-align: center;
 }
 #about div{
@@ -369,6 +370,128 @@ ul.card-list{
     color: #6A4162;
     padding: 2px;
     display: block;
+}
+
+
+/* Gallery Section */
+.five{
+    width: 324px;
+    height: 324px;
+    position: relative;
+    right: 65px;
+    top: 117px;
+}
+
+.six{
+    width: 267px;
+    height: 267px;
+    position: relative;
+    right: 393px;
+    top: 426px;
+}
+
+.seven{
+    width: 341px;
+    height: 341px;
+    position: relative;
+    right: 664px;
+    top: 780px;
+}
+
+.eight{
+    width: 268px;
+    height: 268px;
+    position: relative;
+    bottom: 380px;
+    left: 286px;
+}
+
+.nine{
+    width: 269px;
+    height: 269px;
+    position: relative;
+    right: -16px;
+    bottom: 70px;
+}
+
+.ten{
+    width: 192px;
+    height: 349px;
+    position: relative;
+    top: 320px;
+    right: 251px;
+}
+
+.eleven{
+    width: 216px;
+    height: 216px;
+    position: relative;
+    bottom: 478px;
+    right: 166px;
+}
+
+.twelve{
+    width: 327px;
+    height: 327px;
+    position: relative;
+    left: 814px;
+    bottom: 810px;
+}
+
+.thirteen{
+    width: 282px;
+    height: 282px;
+    position: relative;
+    bottom: 500px;
+    left: 244px;
+}
+
+.fourteen{
+    width: 282px;
+    height: 282px;
+    position: relative;
+    bottom: 500px;
+    left: 239px;
+}
+.fifteen{
+    width: 564.5px;
+    height: 564.5px;
+    position: relative;
+    bottom: 450px;
+    left: 584px;
+}
+
+.background-box{
+    width: 1091px;
+    height: 993px;
+    background-color: white;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gallery{
+    padding-top: 100px;
+    background-color: #F39DB6;
+    padding-bottom: 200px;
+
+}
+
+.gallery-heading{
+    display: inline-block;
+    font-family: all-round-gothic, sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    position: relative;
+    top: 100px;
+    padding: 0px;
+    z-index: 1;
+}
+
+.gallery-div{
+    width: 1220px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
